@@ -1,1 +1,1 @@
-# BruteForce-AIThon
+# AIThon
